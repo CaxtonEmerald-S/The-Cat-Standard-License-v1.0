@@ -1,12 +1,12 @@
 The Cat Standard License
 Version 1.0
 October 2023
-Date of Issue: [Month Day, Year]
+Date of Issue: October 27, 2023
 
 Preamble:
-This document, known as "The Cat Standard License," is a legal agreement that governs the use, modification, and distribution of the software package (the "Software") created by [Your Name] (the "Developer"). It is a "Non-Commercial, Non-Profit Educational, and Non-Profit Research Use Software License," designed for non-commercial, non-profit educational, and non-profit research purposes while imposing restrictions on commercial or for-profit use, modification, and distribution. By using, modifying, or distributing the Software, you agree to the terms of this Software License.
+This document, known as "The Cat Standard License," is a legal agreement that governs the use, modification, and distribution of the software package (the "Software") created by Caxton Emerald S (the "Developer"). It is a "Non-Commercial, Non-Profit Educational, and Non-Profit Research Use Software License," designed for non-commercial, non-profit educational, and non-profit research purposes while imposing restrictions on commercial or for-profit use, modification, and distribution. By using, modifying, or distributing the Software, you agree to the terms of this Software License.
 
-Copyright © [Year] [Your Name]
+Copyright © 2023 Caxton Emerald S
 
 Definitions:
 - **Base Software**: The original or derived software that is published under The Cat Standard License and is incorporated within the Software, whether in its unaltered state or as a modified version.
@@ -32,9 +32,9 @@ Definitions:
    a. In no event shall the Developer be liable for any damages arising from the use, modification, or distribution of the Software.
 
 7. Governing Law and Jurisdiction:
-   a. This License shall be governed by and construed in accordance with the laws of [Jurisdiction].
-   b. Any legal disputes arising under this License shall fall under the jurisdiction of [Court], [Jurisdiction], regardless of the user's location.
+   a. This License shall be governed by and construed in accordance with the laws of the Republic of India.
+   b. Any legal disputes arising under this License shall fall under the jurisdiction of the Madras High Court, Chennai, India, regardless of the user's location.
 
-[Base Software License: Insert Hyperlink Here if Applicable]
+
 
 This License applies to the original Software and all derivatives created from it.
