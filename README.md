@@ -25,7 +25,7 @@ The Cat Standard License is intended for non-commercial and non-profit use, incl
 
 To use the Cat Standard License for your software:
 
-1. Copy the [license template](LICENSE Template) from this repository.
+1. Copy the [LICENSE Template](https://github.com/CaxtonEmerald-S/The-Cat-Standard-License-v1.0/blob/main/LICENSE%20Template) from this repository.
 2. Replace placeholders with your specific information, including developer names and jurisdiction.
 3. Include the license in your software distribution.
 
