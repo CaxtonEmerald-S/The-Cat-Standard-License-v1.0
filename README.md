@@ -9,6 +9,7 @@ The Cat Standard License is a non-commercial, non-profit educational, and non-pr
 - [Disclaimer](#disclaimer)
 - [Contributing](#contributing)
 - [License](#license)
+- [Documentation Wiki](https://github.com/CaxtonEmerald-S/The-Cat-Standard-License-v1.0/wiki)
 
 ## License Overview
 
